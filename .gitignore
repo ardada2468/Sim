@@ -1,0 +1,11 @@
+# Large Data
+project/training_data.pkl
+
+# Virtual Environments
+project/venv/
+venv/
+.venv/
+__pycache__/
+
+# System
+.DS_Store

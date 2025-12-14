@@ -1,0 +1,3 @@
+[submodule "drive_sim_base/metadrive"]
+	path = drive_sim_base/metadrive
+	url = https://github.com/metadriverse/metadrive.git
